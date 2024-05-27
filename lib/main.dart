@@ -234,7 +234,7 @@ class _DynamicColorExampleState extends State<DynamicColorExample> {
     );
   }
 
-  // Helper function to build adaptive image rows.
+  // Helper function to build adaptive image rows
   Widget _adaptiveLayoutImagesRow(
     List<ImageProvider> images,
     ColorScheme colorScheme,
