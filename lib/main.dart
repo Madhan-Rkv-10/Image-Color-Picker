@@ -18,7 +18,7 @@ class DynamicColorExample extends StatefulWidget {
   State<DynamicColorExample> createState() => _DynamicColorExampleState();
 }
 
-// State class for DynamicColorExample widget.
+/// State class for DynamicColorExample widget.
 class _DynamicColorExampleState extends State<DynamicColorExample> {
   // Define state variables.
   late ColorScheme currentColorScheme;
